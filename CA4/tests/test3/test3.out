@@ -1,0 +1,43 @@
+Base Salary: 13000
+Salary Per Hour: 60
+Salary Per Extra Hour: 48
+Official Working Hours: 210
+Tax: 15%
+Base Salary: 40000
+Salary Per Hour: 180
+Salary Per Extra Hour: 134
+Official Working Hours: 220
+Tax: 32%
+INVALID_LEVEL
+OK
+INVALID_LEVEL
+Base Salary: 21500
+Salary Per Hour: 200
+Salary Per Extra Hour: 75
+Official Working Hours: 150
+Tax: 10%
+ID: 1
+Name: AzadehZahedi
+Total Working Hours: 200
+Total Earning: 21250
+---
+ID: 2
+Name: GolnazEmadi
+Total Working Hours: 217
+Total Earning: 53761
+---
+ID: 3
+Name: ParvinKarami
+Total Working Hours: 228
+Total Earning: 54857
+---
+ID: 4
+Name: MehranAmiri
+Total Working Hours: 226
+Total Earning: 46749
+---
+ID: 5
+Name: BehzadAbbasi
+Total Working Hours: 175
+Total Earning: 48037
+---

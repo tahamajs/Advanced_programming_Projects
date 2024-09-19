@@ -1,0 +1,43 @@
+ID: 1
+Head ID: 2
+Head Name: GolnazEmadi
+Team Total Working Hours: 443
+Average Member Working Hours: 221.5
+Bonus: 0
+---
+Member ID: 2
+Total Earning: 53761
+---
+Member ID: 4
+Total Earning: 46749
+---
+ID: 2
+Head ID: 3
+Head Name: ParvinKarami
+Team Total Working Hours: 428
+Average Member Working Hours: 214.0
+Bonus: 0
+---
+Member ID: 1
+Total Earning: 21250
+---
+Member ID: 3
+Total Earning: 54857
+---
+TEAM_NOT_FOUND
+OK
+TEAM_NOT_FOUND
+INVALID_ARGUMENTS
+ID: 1
+Head ID: 2
+Head Name: GolnazEmadi
+Team Total Working Hours: 443
+Average Member Working Hours: 221.5
+Bonus: 10
+---
+Member ID: 2
+Total Earning: 59137
+---
+Member ID: 4
+Total Earning: 51424
+---

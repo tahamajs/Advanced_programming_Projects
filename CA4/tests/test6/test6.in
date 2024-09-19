@@ -1,0 +1,17 @@
+report_salaries
+report_employee_salary 5
+report_employee_salary 10
+add_working_hours 0 1 12 21
+add_working_hours 0 2 20 21
+add_working_hours 0 6 15 23
+report_salaries
+add_working_hours 8 2 14 21
+add_working_hours 8 25 18 21
+add_working_hours 8 30 12 21
+report_employee_salary 8
+update_team_bonus 1 30
+update_team_bonus 5 10
+report_team_salary 1
+report_team_salary 3
+delete_working_hours 3 18
+report_team_salary 1

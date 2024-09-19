@@ -1,0 +1,21 @@
+single_answer
+?2 + 2
+4
+1
+2
+4
+I don't know
+3
+#
+multiple_answer
+prime numbers below 5?
+4
+1
+2
+4
+3
+2 4
+#
+short_answer
+What is a prime number?
+A_number_that_is_divisible_only_by_itself_and_1

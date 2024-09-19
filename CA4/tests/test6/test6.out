@@ -1,0 +1,137 @@
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 4482
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 10899
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 8633
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 10839
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4067
+---
+ID: 5
+Name: Melika Jafari
+Age: 39
+Level: team_lead
+Team ID: 3
+Total Working Hours: 226
+Absent Days: 0
+Salary: 16676
+Bonus: 0
+Tax: 5837
+Total Earning: 10839
+EMPLOYEE_NOT_FOUND
+INVALID_INTERVAL
+OK
+OK
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 209
+Total Earning: 4631
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 10899
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 8633
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 10839
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4067
+---
+INVALID_INTERVAL
+OK
+INVALID_INTERVAL
+ID: 8
+Name: MajidTavana
+Age: 21
+Level: junior
+Team ID: 1
+Total Working Hours: 178
+Absent Days: 4
+Salary: 4960
+Bonus: 0
+Tax: 843
+Total Earning: 4117
+OK
+TEAM_NOT_FOUND
+ID: 1
+Head ID: 3
+Head Name: Soheil
+Team Total Working Hours: 615
+Average Member Working Hours: 205.0
+Bonus: 30
+---
+Member ID: 0
+Total Earning: 6021
+---
+Member ID: 3
+Total Earning: 14169
+---
+Member ID: 8
+Total Earning: 5352
+---
+ID: 3
+Head ID: 5
+Head Name: Melika Jafari
+Team Total Working Hours: 428
+Average Member Working Hours: 214.0
+Bonus: 0
+---
+Member ID: 4
+Total Earning: 8633
+---
+Member ID: 5
+Total Earning: 10839
+---
+OK
+ID: 1
+Head ID: 3
+Head Name: Soheil
+Team Total Working Hours: 607
+Average Member Working Hours: 202.3
+Bonus: 30
+---
+Member ID: 0
+Total Earning: 6021
+---
+Member ID: 3
+Total Earning: 13858
+---
+Member ID: 8
+Total Earning: 5352
+---

@@ -1,0 +1,7 @@
+report_team_salary 1
+report_team_salary 2
+report_team_salary 3
+update_team_bonus 1 10
+update_team_bonus 5 10
+update_team_bonus 2 120
+report_team_salary 1

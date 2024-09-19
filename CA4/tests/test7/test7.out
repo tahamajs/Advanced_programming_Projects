@@ -1,0 +1,145 @@
+Base Salary: 1400
+Salary Per Hour: 20
+Salary Per Extra Hour: 16
+Official Working Hours: 210
+Tax: 17%
+INVALID_LEVEL
+OK
+OK
+Base Salary: 2100
+Salary Per Hour: 30
+Salary Per Extra Hour: 23
+Official Working Hours: 215
+Tax: 26%
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 9725
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 12900
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 8633
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 12800
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 9701
+---
+ID: 3
+Head ID: 5
+Head Name: Melika Jafari
+Team Total Working Hours: 428
+Average Member Working Hours: 214.0
+Bonus: 0
+---
+Member ID: 4
+Total Earning: 8633
+---
+Member ID: 5
+Total Earning: 12800
+---
+Day #10: 46
+Day #11: 47
+Day #12: 31
+Day #13: 48
+Day #14: 32
+Day #15: 53
+Day #16: 48
+Day #17: 34
+Day #18: 38
+Day #19: 30
+Day #20: 41
+---
+Day(s) with Max Working Hours: 15
+Day(s) with Min Working Hours: 19
+6-7: 1.7
+7-8: 1.9
+8-9: 2.3
+9-10: 2.3
+10-11: 2.6
+11-12: 2.5
+12-13: 2.6
+13-14: 2.7
+14-15: 2.8
+15-16: 2.8
+16-17: 2.5
+17-18: 2.3
+18-19: 1.8
+19-20: 1.6
+---
+Period(s) with Max Working Employees: 14-15 15-16
+Period(s) with Min Working Employees: 19-20
+OK
+ID: 5
+Name: Melika Jafari
+Age: 39
+Level: team_lead
+Team ID: 3
+Total Working Hours: 234
+Absent Days: 0
+Salary: 26400
+Bonus: 0
+Tax: 13200
+Total Earning: 13200
+Day #1: 45
+Day #2: 53
+Day #3: 27
+Day #4: 33
+Day #5: 54
+Day #6: 40
+Day #7: 52
+---
+Day(s) with Max Working Hours: 5
+Day(s) with Min Working Hours: 3
+Day #10: 46
+Day #11: 47
+Day #12: 31
+Day #13: 48
+Day #14: 40
+Day #15: 53
+Day #16: 48
+Day #17: 34
+Day #18: 38
+Day #19: 30
+Day #20: 41
+---
+Day(s) with Max Working Hours: 15
+Day(s) with Min Working Hours: 19
+6-7: 1.7
+7-8: 1.9
+8-9: 2.3
+9-10: 2.3
+10-11: 2.6
+11-12: 2.5
+12-13: 2.6
+13-14: 2.7
+14-15: 2.8
+15-16: 2.8
+16-17: 2.5
+17-18: 2.3
+18-19: 1.8
+19-20: 1.6
+---
+Period(s) with Max Working Employees: 14-15 15-16
+Period(s) with Min Working Employees: 19-20
+21-22: 1.1
+22-23: 0.7
+---
+Period(s) with Max Working Employees: 21-22
+Period(s) with Min Working Employees: 22-23

@@ -1,0 +1,111 @@
+ID: 1
+Name: AzadehZahedi
+Total Working Hours: 200
+Total Earning: 21250
+---
+ID: 2
+Name: GolnazEmadi
+Total Working Hours: 217
+Total Earning: 53761
+---
+ID: 3
+Name: ParvinKarami
+Total Working Hours: 228
+Total Earning: 54857
+---
+ID: 4
+Name: MehranAmiri
+Total Working Hours: 226
+Total Earning: 46749
+---
+ID: 5
+Name: BehzadAbbasi
+Total Working Hours: 175
+Total Earning: 28080
+---
+ID: 2
+Name: GolnazEmadi
+Age: 39
+Level: team_lead
+Team ID: 1
+Total Working Hours: 217
+Absent Days: 2
+Salary: 79060
+Bonus: 0
+Tax: 25299
+Total Earning: 53761
+ID: 3
+Name: ParvinKarami
+Age: 45
+Level: team_lead
+Team ID: 2
+Total Working Hours: 228
+Absent Days: 2
+Salary: 80672
+Bonus: 0
+Tax: 25815
+Total Earning: 54857
+OK
+OK
+ID: 1
+Name: AzadehZahedi
+Total Working Hours: 201
+Total Earning: 21301
+---
+ID: 2
+Name: GolnazEmadi
+Total Working Hours: 217
+Total Earning: 53761
+---
+ID: 3
+Name: ParvinKarami
+Total Working Hours: 228
+Total Earning: 54857
+---
+ID: 4
+Name: MehranAmiri
+Total Working Hours: 227
+Total Earning: 46833
+---
+ID: 5
+Name: BehzadAbbasi
+Total Working Hours: 175
+Total Earning: 28080
+---
+ID: 4
+Name: MehranAmiri
+Age: 32
+Level: expert
+Team ID: 1
+Total Working Hours: 227
+Absent Days: 0
+Salary: 62444
+Bonus: 0
+Tax: 15611
+Total Earning: 46833
+OK
+ID: 1
+Name: AzadehZahedi
+Total Working Hours: 201
+Total Earning: 21301
+---
+ID: 2
+Name: GolnazEmadi
+Total Working Hours: 217
+Total Earning: 53761
+---
+ID: 3
+Name: ParvinKarami
+Total Working Hours: 219
+Total Earning: 54006
+---
+ID: 4
+Name: MehranAmiri
+Total Working Hours: 227
+Total Earning: 46833
+---
+ID: 5
+Name: BehzadAbbasi
+Total Working Hours: 175
+Total Earning: 28080
+---

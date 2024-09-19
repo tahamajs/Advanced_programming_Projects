@@ -1,0 +1,271 @@
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 4482
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 10899
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 8633
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 10839
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4067
+---
+ID: 3
+Name: Soheil
+Age: 45
+Level: team_lead
+Team ID: 1
+Total Working Hours: 228
+Absent Days: 2
+Salary: 16768
+Bonus: 0
+Tax: 5869
+Total Earning: 10899
+INVALID_ARGUMENTS
+ID: 1
+Head ID: 3
+Head Name: Soheil
+Team Total Working Hours: 603
+Average Member Working Hours: 201.0
+Bonus: 0
+---
+Member ID: 0
+Total Earning: 4482
+---
+Member ID: 3
+Total Earning: 10899
+---
+Member ID: 8
+Total Earning: 4067
+---
+OK
+EMPLOYEE_NOT_FOUND
+Day #18: 38
+Day #19: 30
+Day #20: 41
+Day #21: 46
+Day #22: 47
+Day #23: 42
+Day #24: 34
+Day #25: 46
+Day #26: 57
+Day #27: 35
+---
+Day(s) with Max Working Hours: 26
+Day(s) with Min Working Hours: 19
+EMPLOYEE_NOT_FOUND
+INVALID_LEVEL
+TEAM_NOT_FOUND
+OK
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 5378
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 13079
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 9928
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 12465
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4880
+---
+ID: 7
+Name: PedramKhoshafkar
+Age: 26
+Level: senior
+Team ID: N/A
+Total Working Hours: 217
+Absent Days: 2
+Salary: 8596
+Bonus: 0
+Tax: 2235
+Total Earning: 6361
+OK
+12-13: 2.7
+13-14: 2.7
+14-15: 2.8
+15-16: 2.8
+16-17: 2.5
+17-18: 2.3
+---
+Period(s) with Max Working Employees: 14-15 15-16
+Period(s) with Min Working Employees: 17-18
+Base Salary: 2100
+Salary Per Hour: 30
+Salary Per Extra Hour: 23
+Official Working Hours: 215
+Tax: 26%
+EMPLOYEE_NOT_FOUND
+INVALID_ARGUMENTS
+INVALID_INTERVAL
+OK
+Day #10: 46
+Day #11: 47
+Day #12: 31
+Day #13: 48
+Day #14: 45
+Day #15: 53
+---
+Day(s) with Max Working Hours: 15
+Day(s) with Min Working Hours: 12
+INVALID_ARGUMENTS
+OK
+ID: 1
+Head ID: 3
+Head Name: Soheil
+Team Total Working Hours: 630
+Average Member Working Hours: 210.0
+Bonus: 20
+---
+Member ID: 0
+Total Earning: 5378
+---
+Member ID: 3
+Total Earning: 13079
+---
+Member ID: 8
+Total Earning: 5418
+---
+TEAM_NOT_FOUND
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 5378
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 13079
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 9928
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 12465
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 7231
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 202
+Total Earning: 5418
+---
+OK
+INVALID_ARGUMENTS
+INVALID_ARGUMENTS
+ID: 3
+Head ID: 5
+Head Name: Melika Jafari
+Team Total Working Hours: 417
+Average Member Working Hours: 208.5
+Bonus: 15
+---
+Member ID: 4
+Total Earning: 9928
+---
+Member ID: 5
+Total Earning: 12054
+---
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 5378
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 13079
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 9928
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 215
+Total Earning: 12054
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 7231
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 202
+Total Earning: 5418
+---
+Base Salary: 2200
+Salary Per Hour: 35
+Salary Per Extra Hour: 23
+Official Working Hours: 215
+Tax: 26%
+1-2: 0.6
+2-3: 1.0
+3-4: 1.1
+4-5: 1.2
+5-6: 1.5
+6-7: 1.7
+7-8: 2.0
+8-9: 2.3
+9-10: 2.4
+10-11: 2.6
+11-12: 2.6
+12-13: 2.7
+13-14: 2.7
+14-15: 2.8
+15-16: 2.8
+16-17: 2.5
+17-18: 2.3
+18-19: 1.8
+19-20: 1.6
+20-21: 1.5
+21-22: 1.0
+22-23: 0.6
+---
+Period(s) with Max Working Employees: 14-15 15-16
+Period(s) with Min Working Employees: 1-2 22-23

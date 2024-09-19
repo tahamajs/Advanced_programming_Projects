@@ -1,0 +1,15 @@
+show_salary_config junior
+show_salary_config next
+update_salary_config junior 1600 50 1 170 4
+update_salary_config team_lead 3000 100 100 205 50
+show_salary_config senior
+report_salaries
+report_team_salary 3
+report_total_hours_per_day 10 20
+report_employee_per_hour 6 20
+add_working_hours 5 14 15 23
+report_employee_salary 5
+report_total_hours_per_day 1 7
+report_total_hours_per_day 10 20
+report_employee_per_hour 6 20
+report_employee_per_hour 21 23

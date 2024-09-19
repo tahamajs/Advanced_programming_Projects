@@ -1,0 +1,7 @@
+show_salary_config junior
+show_salary_config team_lead
+show_salary_config expertee
+update_salary_config senior - 200 - 150 10
+update_salary_config level - 10 - - 10
+show_salary_config senior
+report_salaries

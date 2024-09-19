@@ -1,0 +1,38 @@
+report_salaries
+report_employee_salary 5
+report_employee_per_hour 7 12
+report_team_salary 2
+report_team_salary 1
+update_team_bonus 1 25
+report_team_salary 1
+report_total_hours_per_day 5 16
+update_team_bonus 4 15
+report_salaries
+report_employee_salary 7
+report_team_salary 3
+add_working_hours 8 14 0 13
+delete_working_hours 2 1
+report_employee_per_hour 2 33
+show_salary_config team_lead
+add_working_hours 4 26 5 12
+update_team_bonus 3 17
+add_working_hours 8 17 7 23
+report_team_salary 1
+report_employee_salary 4
+report_total_hours_per_day 10 15
+report_employee_salary 6
+update_salary_config senior 2200 35 - - 26
+report_total_hours_per_day 7 1
+report_team_salary 3
+update_salary_config manager - 40 - 200 -
+update_team_bonus 2 30
+report_salaries
+delete_working_hours 5 10
+delete_working_hours 7 0
+report_employee_per_hour 19 13
+add_working_hours 7 3 18 17
+report_team_salary 3
+report_salaries
+show_salary_config junior
+report_employee_per_hour 1 23
+report_salaries

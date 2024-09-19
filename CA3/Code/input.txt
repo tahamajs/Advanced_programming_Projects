@@ -1,0 +1,9 @@
+3
+Amir 2 Monday Wednesday 2 Science Physics
+Matin 2 Saturday Sunday 3 Physics Math Geometry
+Iman 3 Saturday Monday Wednesday 3 Physics Science Geometry
+4
+Math Saturday Sunday 09:00 13:00
+Science Saturday Monday 07:30 13:00
+Physics Monday Wednesday 09:30 13:00
+Geometry Saturday Wednesday 07:30 11:00

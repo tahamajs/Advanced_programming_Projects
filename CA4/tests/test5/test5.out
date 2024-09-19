@@ -1,0 +1,113 @@
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 200
+Total Earning: 4482
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 10899
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 202
+Total Earning: 8633
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 10839
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4067
+---
+ID: 3
+Name: Soheil
+Age: 45
+Level: team_lead
+Team ID: 1
+Total Working Hours: 228
+Absent Days: 2
+Salary: 16768
+Bonus: 0
+Tax: 5869
+Total Earning: 10899
+ID: 0
+Name: Ali Omidi
+Age: 28
+Level: junior
+Team ID: 1
+Total Working Hours: 200
+Absent Days: 7
+Salary: 5400
+Bonus: 0
+Tax: 918
+Total Earning: 4482
+EMPLOYEE_NOT_FOUND
+INVALID_INTERVAL
+OK
+EMPLOYEE_NOT_FOUND
+INVALID_ARGUMENTS
+OK
+ID: 0
+Name: Ali Omidi
+Total Working Hours: 201
+Total Earning: 4499
+---
+ID: 3
+Name: Soheil
+Total Working Hours: 228
+Total Earning: 10899
+---
+ID: 4
+Name: Mobina Aghili
+Total Working Hours: 203
+Total Earning: 8665
+---
+ID: 5
+Name: Melika Jafari
+Total Working Hours: 226
+Total Earning: 10839
+---
+ID: 7
+Name: PedramKhoshafkar
+Total Working Hours: 217
+Total Earning: 6361
+---
+ID: 8
+Name: MajidTavana
+Total Working Hours: 175
+Total Earning: 4067
+---
+ID: 4
+Name: Mobina Aghili
+Age: 32
+Level: expert
+Team ID: 3
+Total Working Hours: 203
+Absent Days: 5
+Salary: 12035
+Bonus: 0
+Tax: 3370
+Total Earning: 8665
+OK
+ID: 4
+Name: Mobina Aghili
+Age: 32
+Level: expert
+Team ID: 3
+Total Working Hours: 195
+Absent Days: 6
+Salary: 11675
+Bonus: 0
+Tax: 3269
+Total Earning: 8406
+EMPLOYEE_NOT_FOUND
+INVALID_ARGUMENTS

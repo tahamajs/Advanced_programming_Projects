@@ -1,0 +1,47 @@
+Day #2: 44
+Day #3: 19
+Day #4: 27
+Day #5: 44
+Day #6: 35
+Day #7: 45
+---
+Day(s) with Max Working Hours: 7
+Day(s) with Min Working Hours: 3
+Day #10: 37
+Day #11: 43
+Day #12: 21
+Day #13: 40
+Day #14: 25
+Day #15: 44
+Day #16: 40
+Day #17: 23
+Day #18: 36
+Day #19: 30
+Day #20: 32
+---
+Day(s) with Max Working Hours: 15
+Day(s) with Min Working Hours: 12
+INVALID_ARGUMENTS
+6-7: 1.4
+7-8: 1.6
+8-9: 1.9
+9-10: 2.0
+10-11: 2.1
+11-12: 2.1
+12-13: 2.3
+13-14: 2.2
+14-15: 2.4
+15-16: 2.4
+16-17: 2.2
+17-18: 1.9
+18-19: 1.4
+19-20: 1.3
+---
+Period(s) with Max Working Employees: 14-15 15-16
+Period(s) with Min Working Employees: 19-20
+21-22: 0.9
+22-23: 0.6
+---
+Period(s) with Max Working Employees: 21-22
+Period(s) with Min Working Employees: 22-23
+INVALID_ARGUMENTS

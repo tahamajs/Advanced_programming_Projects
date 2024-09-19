@@ -1,0 +1,23 @@
+new_module myModule 4
+add or 1 1 2 3
+add or 2 8 9 7
+connect in1 2
+add and 3 4 5 6
+connect 3 4
+connect 7 5
+connect in0 1
+connect in2 8
+connect in3 9
+connect 6 out
+end_module
+add myModule 3 1 2 5 6 8
+add myModule 4 11 12 13 14 10
+connect 10 2
+put 1 1
+put 11 0
+put 12 1
+put 13 1
+put 14 1
+put 5 0
+put 6 1
+print 3

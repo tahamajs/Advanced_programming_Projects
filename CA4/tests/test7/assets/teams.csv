@@ -1,0 +1,3 @@
+team_id,team_head_id,member_ids,bonus_min_working_hours,bonus_working_hours_max_variance
+1,3,0$3$8,600,211.7
+3,5,5$4,420,160.72

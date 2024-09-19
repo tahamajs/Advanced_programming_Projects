@@ -1,0 +1,5 @@
+level,base_salary,salary_per_hour,salary_per_extra_hour,official_working_hours,tax_percentage
+junior,1400,20,16,210,17
+senior,2100,30,23,215,26
+team_lead,4300,55,46,220,35
+expert,2900,45,31,215,28
